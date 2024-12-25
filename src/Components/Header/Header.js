@@ -18,7 +18,7 @@ export default function Header (){
             </section>
             
         <section className="lives">
-            <img src={lives} />
+            <img src={lives}/>
             <h3>X3</h3>
         </section>
 

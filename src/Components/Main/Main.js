@@ -19,7 +19,7 @@ export default function Main() {
     <M.Mainbox>
       <section className="painelgeral">
         {Array.from({ length: 9 }, (_, i) => {
-          const id = i + 1; // IDs vão de 1 a 9
+          const id = i + 1;
           return (
             <section
               key={id}
